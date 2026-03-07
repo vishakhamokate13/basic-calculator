@@ -1,0 +1,17 @@
+.calculator-body{
+    height: 400px;
+    width: 330px;
+    background-color: #3D3D5C;
+    margin: 20px auto;
+    border-radius: 10px;
+    padding: 20px;
+}
+.screen{
+    background-color: #a1af77;
+    text-align: right;
+    width: 300px;
+    display: block;
+    margin: 0 auto;
+    font-size: 30px;
+    padding: 5px 10px;
+}
