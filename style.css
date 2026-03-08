@@ -2,7 +2,7 @@ body{
 display:flex;
 justify-content:center;
 align-items:center;
-height:100vh;
+height:-20px;
 background:#f0f0f0;
 font-family:Arial;
 }
@@ -48,4 +48,5 @@ background:#ddd;
 grid-row: span 2;
 background:#ff5733;
 color:white;
+height: 85px;
 }
