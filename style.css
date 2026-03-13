@@ -3,22 +3,23 @@ display:flex;
 justify-content:center;
 align-items:center;
 height:-20px;
-background:#f0f0f0;
+background:#312626;
 font-family:Arial;
 }
 
 .calculator{
 background:#3b3b5c;
 padding:20px;
-border-radius:15px;
+border-radius:20px;
 width:250px;
+height: 350px;
 }
 
 .display{
-width:100%;
-height:50px;
-font-size:22px;
-margin-bottom:15px;
+width:235px;
+height:38px;
+font-size:30px;
+margin-bottom:20px;
 text-align:right;
 background:#c5d08a;
 border:none;
@@ -48,5 +49,5 @@ background:#ddd;
 grid-row: span 2;
 background:#ff5733;
 color:white;
-height: 85px;
+height: 90px;
 }
